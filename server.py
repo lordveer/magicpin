@@ -1,6 +1,4 @@
 """
-server.py — public HTTP endpoint for the magicpin AI Challenge judge_simulator.py.
-
 Implements exactly the 5 endpoints the judge expects:
     GET  /v1/healthz
     GET  /v1/metadata
